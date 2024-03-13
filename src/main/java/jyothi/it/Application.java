@@ -16,6 +16,7 @@ public class Application {
 		bean.getPerson();
 	    bean.getPassport();
 int i=10;
+int j=20;
 		
 	}
 }
