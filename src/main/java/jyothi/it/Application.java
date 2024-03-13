@@ -15,6 +15,7 @@ public class Application {
 		bean.savePerson();
 		bean.getPerson();
 	    bean.getPassport();
+int i=10;
 		
 	}
 }
